@@ -31,7 +31,7 @@ To install this program, the user must install it using their command console. U
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Sc![employeescreen](https://github.com/RecceRaven/EmployeeTracker/assets/149850541/0e95f0ea-ffe6-4a7e-b2cb-b46973486eec)
 
 
 ## Features
