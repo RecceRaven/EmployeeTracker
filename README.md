@@ -43,4 +43,4 @@ To install this program, the user must install it using their command console. U
 ## Additional Resources 
 
 Repo: https://github.com/RecceRaven/EmployeeTracker
-
+Video: https://www.youtube.com/watch?v=kPpdI9KB5Bk
